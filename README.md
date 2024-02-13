@@ -2,7 +2,7 @@
 Hi, I'm Bo Myoung.
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 - :mortar_board: College student
-- 🌱 Learning make game
+- 🌱 U5
 - :video_game: i love it
 
 <!--
